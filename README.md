@@ -1,4 +1,4 @@
-Thomas' repository; focus on multi-modal sensors, P300, and CMC detection
+Thomas' repository; focus on multi-modal sensors, P300, and CMC detection.
 All custom Matlab code written for the Corticomuscular Coherence (CMC) and attention study.
 If there are any questions, please contact Thomas Lynch at lyncht248@gmail.com.
 
