@@ -1,5 +1,14 @@
-Thomas' repository; focus on multi-modal sensors, P300, and CMC detection.
-All custom Matlab code written for the Corticomuscular Coherence (CMC) and attention study.
+This repo contains code for analyzing data from the **Mo**bile **B**rain and Body **I**maging (**MoBI**) system developed in the final four months of Thomas Lynch's bachelors degree. 
+
+<p align="center">
+  <img src="https://i.imgur.com/Y9gSyUQ.png" width="700">
+</p>
+
+
+We examined cortico-muscular coherence (CMC) during treadmill walking under varying attentional conditions. Specifically, we tracked how CMC differed when participants focused their attention on the active tibia muscle versus when their attention was diverted by a concurrent cognitive task.
+
+You can view the project proposal for more detail here: (LINK)
+
 If there are any questions, please contact Thomas Lynch at lyncht248@gmail.com.
 
 
@@ -54,16 +63,4 @@ If there are any questions, please contact Thomas Lynch at lyncht248@gmail.com.
 		sample at 250Hz or 500Hz. However, the OpenBCI GUI can only display data
 		at 25Hz for the IMU and 250Hz for the electrodes.
 
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+© Thomas Lynch
