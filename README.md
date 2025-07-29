@@ -5,7 +5,9 @@ This repo contains code for analyzing data from the **Mo**bile **B**rain and Bod
 </p>
 
 
-We examined cortico-muscular coherence (CMC) during treadmill walking under varying attentional conditions. Specifically, we tracked how CMC differed when participants focused their attention on the active tibia muscle versus when their attention was diverted by a concurrent cognitive task.
+We examined cortico-muscular coherence (CMC) during treadmill walking under varying attentional conditions. Specifically, we tracked how CMC differed when participants focused their attention on the active right tibia muscle versus when their attention was diverted by a concurrent cognitive task.
+
+From the C3-Cz electrodes (sensorimotor cortex) we found significant coherence in the 10-20Hz band for all trials; from the C3 electrode we observed coherence in the 30-40Hz band for just the undistracted task. 
 
 You can view the project proposal for more detail here: (LINK)
 
