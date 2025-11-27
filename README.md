@@ -1,5 +1,3 @@
-This repo contains code for analyzing data from the **Mo**bile **B**rain and Body **I**maging (**MoBI**) system developed in the final four months of Thomas Lynch's bachelors degree. 
-
 <p align="center">
   <img src="https://i.imgur.com/Y9gSyUQ.png" width="700">
 </p>
