@@ -5,6 +5,8 @@
 
 We examined cortico-muscular coherence (CMC) during treadmill walking under varying attentional conditions. Specifically, we tracked how CMC differed when participants focused their attention on the active right tibia muscle versus when their attention was diverted by a concurrent cognitive task.
 
+Thomas Lynch received an **NSERC Undergraduate Student Research Award (USRA)** for this EEG research.
+
 From the C3-Cz electrodes (sensorimotor cortex) we found significant coherence in the 10-20Hz band for all trials; from the C3 electrode we observed coherence in the 30-40Hz band for just the undistracted trials. 
 
 You can view the project proposal for more detail here: [Research Proposal (PDF)](https://raw.githubusercontent.com/SimPL-UBC/EEG_MoBI/master/ThomasLynch_ResearchProposal_HonorsThesis_V5.pdf)
